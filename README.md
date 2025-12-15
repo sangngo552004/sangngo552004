@@ -7,34 +7,23 @@ Still figuring out my path, but I really enjoy learning new things every day �
 
 ### 🧩 What I'm Learning
 
-- **Languages:** Python 🐍 (for LeetCode & problem solving), Java ☕ (Spring Boot), JavaScript / TypeScript ⚡ (Node.js, React), Go 🐹 (currently building a TodoList project)
-- **Frameworks:** Spring Boot, Express.js, React, Gin
+- **Languages:** Python 🐍 (for LeetCode & problem solving), Java ☕ (Spring Boot), JavaScript / TypeScript ⚡ (Node.js, React), Go 🐹 
+- **Backend Frameworks:** Spring Boot, Express.js, Gin
+- **Frontend Frameworks:** React
 - **Databases:** MySQL, MongoDB
-- **Currently Exploring:** DevOps, AWS Cloud ☁️, and Network Security (Cisco, GNS3)
-- **Also Curious About:** LLMs, MCP, RAG, and the new wave of AI tech 🤖
-
+- **Cloud:** AWS
+- **Currently Exploring:** DevOps, GenAI
 ---
 
 ### 🧠 My Journey So Far
 
-I mainly focus on **backend development**, building REST APIs and experimenting with different architectures.  
-Recently, I’ve been diving into **DevOps** and **Cloud**, learning how to deploy and automate stuff.  
-I also study **networking and security** to understand how everything connects under the hood.  
+I started my journey with Java backend development, drawn to the discipline and structure it offers. Over time, I’ve explored other backend frameworks like Express and Gin to broaden my skill set and future career opportunities.
 
-Even though I’m learning many things at once (and not a master of any yet 😅),  
-I truly love the process — one step at a time, one bug at a time.
+While some may call this “learning too many things at once,” I see it differently — I’m still young, and I believe it’s the perfect time to experiment, explore, and discover what truly resonates with me. This mindset has led me to dive into Cloud technologies, especially AWS, which in turn opened doors to DevOps, GenAI, and other adjacent fields.
 
----
-
-### 🎯 What I Do in My Free Time
-
-- Practicing **LeetCode** problems  
-- Studying **System Design** & **Low-Level Design** concepts  
-- Exploring new tools or frameworks just for fun  
-- Watching tech talks or reading about AI trends  
+Even if I may not end up working directly in DevOps, GenAI, or Cloud, every step of learning feels meaningful. It helps me connect knowledge across domains and collaborate with a wider community — and I genuinely enjoy the process, one discovery at a time.
 
 ---
-
 ### 💬 My Motto
 
 > “It’s okay to learn slowly — what matters is you keep moving forward.”
@@ -53,16 +42,3 @@ I truly love the process — one step at a time, one bug at a time.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
-
-### ☕ Let's Connect
-
-📧 Email: *youremail@example.com*  
-💼 LinkedIn: ([my-linkedin](https://www.linkedin.com/in/sangngo552004/))  
-🌐 Portfolio: *coming soon... maybe 😆*  
-
----
-
-⭐ *Thanks for visiting my GitHub profile!*  
-I'm still learning, still building, and still having fun 😎
