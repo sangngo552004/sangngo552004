@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sang!
 
-I'm a **student developer** who loves exploring different areas of tech — from **Backend Development** to **DevOps**, **Cloud**, and even a bit of **AI**.  
+I'm a **student developer** who loves exploring different areas of tech — from **Backend Development** to **DevOps**, **Cloud**.  
 Still figuring out my path, but I really enjoy learning new things every day 🚀  
 
 ---
@@ -12,7 +12,7 @@ Still figuring out my path, but I really enjoy learning new things every day �
 - **Frontend Frameworks:** React
 - **Databases:** MySQL, MongoDB
 - **Cloud:** AWS
-- **Currently Exploring:** DevOps, GenAI
+- **Currently Exploring:** DevOps, Cloud
 ---
 
 ### 🧠 My Journey So Far
